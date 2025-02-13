@@ -55,7 +55,7 @@ export default function App() {
                         Luckee Yu, 19th February at 19:00
                     </a>
                     <img src={PintaImage} alt="Pinta Interior" className="pinta"/>
-                    <div>
+                    <div className="clr">
                         Make a screenshot and share to me, my Dear
                     </div>
                 </motion.div>
