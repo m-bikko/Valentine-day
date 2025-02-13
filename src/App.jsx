@@ -49,7 +49,7 @@ export default function App() {
             </div>
             {showPopup && (
                 <motion.div className="popup" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                    <h2 className={"clr"}>See you at:</h2>
+                    <h2 className={"clr"}>Beimbet inviting to see you at:</h2>
                     <a href="https://2gis.kz/almaty/search/%D0%BA%D1%83%D1%88%D0%B0%D1%82%D1%8C/firm/9429940001525559?m=76.95642%2C43.245285%2F20" target="_blank" rel="noopener noreferrer">
                         Luckee Yu, 19th February at 19:00
                     </a>
